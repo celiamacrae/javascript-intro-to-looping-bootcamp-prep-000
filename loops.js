@@ -20,6 +20,8 @@ function whileLoop(number){
 }
 
 function doWhileLoop(num){
-  function 
+  function incrementVariable(){
+    i =
+  }
   
 }
